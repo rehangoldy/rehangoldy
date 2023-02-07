@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Raihan Goldy Azzalli. I'm a front-end developer heavy developer aiming desing and develop experiences that make people live simple.
+Hi, I'm Raihan Goldy Azzalli. I'm a front-end developer that has experience to design and develop software, to make people's live simple.
 
 
 ## 🌐 Socials:
