@@ -14,7 +14,7 @@
 * ⚡ Tech enthusiast exploring modern frontend frameworks, backend architecture, and system design.
 * 🌱 Always learning new ways to write cleaner, more efficient code.
 * 💬 Ask me about **Fullstack Development, System Analysis, and Database Design**.
-* 📫 How to reach me: `your.email@example.com`
+* 📫 How to reach me: `work.rehangoldy@gmail.com`
 
 ---
 
