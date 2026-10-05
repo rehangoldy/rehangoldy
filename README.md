@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/rehangoldy" target="_blank">Raihan Goldy Azzalli</a> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rehangoldy&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Ready%20to%20Code-brightgreen?style=flat-square&logo=git" alt="Status" />
-  <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/rehangoldy?label=Followers&style=flat-square&logo=github" alt="Followers" />
 </p>
 
 ---
@@ -52,12 +52,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rehangoldy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehangoldy&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehangoldy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
